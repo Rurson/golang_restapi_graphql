@@ -1,4 +1,4 @@
-# golang_restapi_graphql
+# Learn golang and graphql through building rest api
 Project for learning golang rest api and graphql
 
 ## Used packages
